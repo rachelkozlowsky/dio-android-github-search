@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="spUsername">NAME_USER</string>
+    <string name="apiError">Ops um Erro inesperado apareceu, tente novamente mais tarde! :(</string>
+</resources>
